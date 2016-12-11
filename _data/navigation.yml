@@ -1,0 +1,43 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Projects"
+  url: "#"
+  side: left
+  dropdown:
+  - title: "Harmony"
+    url: "/harmony/"
+  - title: "DinamiX"
+    url: "/dinamix/"
+  - title: "Hybrid Control Planes"
+    url: "/hybrid_coop_cp/"
+
+- title: "Publications"
+  url: "/publications/"
+  side: left
+
+- title: "People"
+  url: "/people/"
+  side: left
+
+#
+#   Navigation to the right › side: right
+#
+#- title: Blog
+#  url: "/blog/"
+#  side: right
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

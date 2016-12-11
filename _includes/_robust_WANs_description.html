@@ -1,0 +1,28 @@
+<p align="justify">
+We follow the recent trend of providing scalable programmability for WANs with
+hybrid control planes (part logically distributed, part logically centralized).
+However, we make a clear distinction regarding the current interaction between
+planes, as we design them to be cooperative instead of co-dependent. That is,
+current designs use a distributed control plane to ensure connectivity and
+depend on a centralized control plane for maintaining proper functionality.
+In contrast, we give enough autonomy to the former so that it can enforce
+policies without the latter. The cue in our design is that the distributed
+control plane is naturally more resilient and thus should be responsible for
+leading the network to a correct and efficient state. To do that, it needs
+guidance and autonomy rather than explicit instructions. We identify a series
+of of simple (most of them widely deployed) mechanisms that can be used as
+building blocks for a programmable distributed plane. We show how to implement
+a variety of control functionality (robust and resilient routing, topology
+reconfiguration, policies, etc). We expect to widen the range of discussion in
+control plane design choices.
+</p>
+
+<p><b>Lead by:</b></p>
+<div class="row">
+      <img src="{{ site.data.people[2].photo_url }}" class="alignleft" alt="{{ site.data.people[2].name }}">
+      <b>{{ site.data.people[2].name }}</b><br>
+      {{ site.data.people[2].role }}<br>
+      {{ site.data.people[2].email }}<br>
+      <a href="{{ site.data.people[2].url }}" target="_blank" title="{{ site.data.people[2].name }}">{{ site.data.people[2].url }}</a><br>
+    <br>
+</div>

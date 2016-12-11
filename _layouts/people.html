@@ -1,0 +1,15 @@
+---
+layout: page
+format: blog-index
+---
+
+{% for p_item in site.data.people %}
+    <div class="row">
+          <img src="{{ p_item.photo_url }}" class="alignleft" alt="{{ p_item.name }}">
+          <b>{{ p_item.name }}</b><br>
+          {{ p_item.role }}<br>
+          {{ p_item.email }}<br>
+          <a href="{{ p_item.url }}" target="_blank" title="{{ p_item.name }}">{{ p_item.url }}</a><br>
+        <br>
+    </div>
+{% endfor %}
