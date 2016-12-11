@@ -5,15 +5,15 @@
 #   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
 #                                                 /____/
 #
-# Title of your website
+# Title of the website
 title: "Networks@Scale INF/UFRGS"
 
 
-# The slogan describes your website and is used on homepage in <title> and other important places
+# The slogan describes the website and is used on homepage in <title> and other important places
 slogan: "Networks@Scale Improving Management, Performance and Resilience"
 
 
-# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
+# The description is used on homepage and in the footer to quickly describe the website. Use a maximum of 150 characters for SEO-purposes.
 description: "Networks@Scale Improving Management, Performance and Resilience is an INF/UFRGS project from Computer Networks Group."
 
 # Main author of the website
@@ -22,7 +22,7 @@ author: lfmuller
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://localhost:4000'
+url: 'https://ufrgs-networks-group.github.io/networks-at-scale'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -35,7 +35,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://localhost:4000/images/'
+urlimg: 'https://ufrgs-networks-group.github.io/networks-at-scale/images/'
 
 
 # Logo size is 600x80 pixels
