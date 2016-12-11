@@ -14,17 +14,17 @@ overview:
 
 widget1:
   title: "DinamiX"
-  url: 'http://localhost:4000/dinamix/'
+  url: 'https://ufrgs-networks-group.github.io/networks-at-scale/dinamix/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: 'A Dynamic Agreement Marketplace on Internet eXchange Points'
 widget2:
   title: "Harmony"
-  url: 'http://localhost:4000/harmony/'
+  url: 'https://ufrgs-networks-group.github.io/networks-at-scale/harmony/'
   image: '/images/logo-harmony-site.png'
   text: 'Efficiently Delivering Online Services through Coopetition between ISP Networks and App Providers'
 widget3:
   title: "Hybrid Control Planes"
-  url: 'http://localhost:4000/hybrid_coop_cp/'
+  url: 'https://ufrgs-networks-group.github.io/networks-at-scale/hybrid_coop_cp/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: 'Control Plane Cooperation Design towards robust programmable WANs'
 #
