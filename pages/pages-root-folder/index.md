@@ -15,7 +15,7 @@ overview:
 widget1:
   title: "DinamiX"
   url: 'https://ufrgs-networks-group.github.io/networks-at-scale/dinamix/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  image: '/images/logo-dinamix-site.png'
   text: 'A Dynamic Agreement Marketplace on Internet eXchange Points'
 widget2:
   title: "Harmony"
