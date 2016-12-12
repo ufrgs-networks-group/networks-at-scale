@@ -10,7 +10,7 @@ header:
 
 overview:
   title: Overview
-  text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis dictum nulla. Nullam hendrerit lorem porta placerat aliquam. Sed mattis egestas erat in tristique. Nulla eget urna sed ligula ultricies ultrices. Donec id justo vitae nulla mattis interdum vel eu eros. Sed et leo nec nunc consectetur rutrum. In vulputate turpis nec justo euismod sollicitudin. Praesent quis convallis dolor. Cras quis rhoncus ante. Fusce at nunc lacus. Etiam placerat massa magna, a laoreet elit eleifend ut. Nam a interdum nibh. Morbi nulla ante, elementum sed volutpat eu, tempor id justo. Phasellus rhoncus odio vitae ipsum imperdiet lobortis. Praesent varius nisi urna, ac iaculis mi imperdiet ac.
+  text: Recent advances in networking have made both the industry and academy shift to new network management paradigms. Such paradigms have paired its benefits with challenges in networking design and maintenance. This project aims to investigate the actual situation for large scale networks, for then optimize the design and maintenance of such networks. The Networks@Scale project is fostering large-scale studies from Brazil's network infrastructure; allowing the study and development of complex optimization models, and propose new components for the network ecosystem of a large scale networks and its members.
 
 widget1:
   title: "DinamiX"
