@@ -3,6 +3,11 @@ layout: page
 format: blog-index
 ---
 
+Networks@Scale is carried out in the Institute of Informatics of the Federal
+University of Rio Grande do Sul (UFRGS) and we collaborate closely with collegues from IX.br and CGI.br / NIC.br.
+
+For further information please contact Prof. Marinho Pilla Barcellos (marinho@inf.ufrgs.br).
+
 {% for p_item in site.data.people %}
     <div class="row">
           <img src="{{ p_item.photo_url }}" class="alignleft" alt="{{ p_item.name }}">
@@ -13,3 +18,10 @@ format: blog-index
         <br>
     </div>
 {% endfor %}
+
+<h2 class="font-size-h3 t10">Collaborators</h2>
+<div>
+  <b>Leandro Márcio Bertholdo (RNP and IX.br)</b><br>
+  <a href="http://ix.br/" alt="IX.br"><img src="{{ site.urlimg }}ixbr_logo.png" style="float: left; margin: 0; width: 108px;"></a>
+  <a href="http://www.cgi.br/" alt="CGI.br and NIC.br"><img src="{{ site.urlimg }}CGI_NICbr.png" style="float: left; margin: 0 16px 0 16px; width: 108px;"></a>
+</div>
