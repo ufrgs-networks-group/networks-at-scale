@@ -9,10 +9,12 @@
   url: "#"
   side: left
   dropdown:
-  - title: "Harmony"
-    url: "/harmony/"
+  - title: "Brazil's Connectivity"
+    url: "/brazil_connectivity/"    
   - title: "DinamiX"
     url: "/dinamix/"
+  - title: "Harmony"
+    url: "/harmony/"
   - title: "Hybrid Control Planes"
     url: "/hybrid_coop_cp/"
 
