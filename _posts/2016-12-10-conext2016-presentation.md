@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "ACM CoNEXT 2016"
 title: "INF/UFRGS sends two students to the CoNEXT 2016 Conference"
-teaser: "Students to present two new papers at the conference."
+teaser: "Students to present new papers at the conference."
 
 categories:
   - Conferences
