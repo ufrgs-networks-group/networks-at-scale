@@ -16,8 +16,8 @@ tags:
 #
 image:
   header: ""
-  thumb: "brazil-study-thumb.png"
-  homepage: "special-post-homepage.png"
+  thumb: "conext2016-thumb.png"
+  homepage: ""
   caption: ""
   url: ""
 ---

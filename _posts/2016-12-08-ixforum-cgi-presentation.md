@@ -25,9 +25,9 @@ video:
 #
 image:
   header: ""
-  thumb: "you-can-delete-me-thumb.png"
-  homepage: "you-can-delete-me-homepage.png"
-  caption: "Caption?"
+  thumb: "forumix-news-thumb.png"
+  homepage: ""
+  caption: ""
   url: ""
 ---
 
