@@ -10,7 +10,7 @@
   side: left
   dropdown:
   - title: "Brazil's Connectivity"
-    url: "/brazil_connectivity/"    
+    url: "/brazil_connectivity/"
   - title: "DinamiX"
     url: "/dinamix/"
   - title: "Harmony"
@@ -29,12 +29,12 @@
 #
 #   Navigation to the right › side: right
 #
-#- title: Blog
-#  url: "/blog/"
-#  side: right
-#  dropdown:
-#  - title: "Blog Archive"
-#    url: "/blog/archive/"
+- title: Blog
+ url: "/blog/"
+ side: right
+ dropdown:
+ - title: "Blog Archive"
+   url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
