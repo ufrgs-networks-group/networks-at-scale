@@ -13,6 +13,6 @@
 ## Components
 Standards: HTML5, CSS3
 
-Software: Sublime Text, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
+Software: Atom, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
 
 Components: Foundation Framework, Modernizr, jQuery, Backstretch.js, Reveal
