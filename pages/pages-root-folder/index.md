@@ -25,7 +25,7 @@ widget2:
 widget3:
   title: "Hybrid Control Planes"
   url: 'https://ufrgs-networks-group.github.io/networks-at-scale/hybrid_coop_cp/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  image: '/images/logo-hibridcp-site.png'
   text: 'Control Plane Cooperation Design towards robust programmable WANs'
 #
 # Use the call for action to show a button on the frontpage
