@@ -20,7 +20,7 @@ widget1:
 widget2:
   title: "Harmony"
   url: 'https://ufrgs-networks-group.github.io/networks-at-scale/harmony/'
-  image: '/images/logo-harmony-site.png'
+  image: '/images/logo2-harmony-site.png'
   text: 'Efficiently Delivering Online Services through Coopetition between ISP Networks and App Providers'
 widget3:
   title: "Hybrid Control Planes"
