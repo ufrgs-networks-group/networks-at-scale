@@ -2,8 +2,8 @@
 layout: people
 header:
   image_fullwidth: main-header.png
-title: "Research Group"
-subheadline: "Team members"
+title: "Research Team"
+subheadline: "Members"
 teaser: ""
 permalink: /people/
 ---
