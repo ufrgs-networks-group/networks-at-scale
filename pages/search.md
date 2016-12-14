@@ -2,7 +2,7 @@
 permalink: /search/
 layout: page
 header:
-  image_fullwidth: main-header.png
+  image_fullwidth: main-header.jpg
 title: "Search"
 ---
 

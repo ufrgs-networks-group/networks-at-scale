@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-  image_fullwidth: main-header.png
+  image_fullwidth: main-header.jpg
 title: "Contact"
 meta_title: "Contact Us"
 subheadline: ""
