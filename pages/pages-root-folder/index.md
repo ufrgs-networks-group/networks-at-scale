@@ -10,7 +10,7 @@ header:
 
 overview:
   title: Overview
-  text: Recent advances in networking have made both the industry and academy shift to new network management paradigms. Such paradigms have paired its benefits with challenges in networking design and maintenance. This project aims to investigate the actual situation for large scale networks, for then optimize the design and maintenance of such networks. The Networks@Scale project is fostering large-scale studies from Brazil's network infrastructure; allowing the study and development of complex optimization models, and propose new components for the network ecosystem of a large scale networks and its members.
+  text: Recent advances in networking have made both the industry and academy shift to new network management paradigms. Such paradigms have paired its benefits with challenges in networking design and maintenance. This project aims to investigate the actual situation for large-scale networks for then optimize the design and maintenance of such networks. The Networks@Scale project is fostering large-scale studies from Brazil's network infrastructure; allowing the analysis and development of complex optimization models, and also proposing new components for the network ecosystem infrastructure and its members.
 
 widget1:
   title: "DinamiX"
