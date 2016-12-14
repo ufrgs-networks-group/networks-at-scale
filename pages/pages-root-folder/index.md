@@ -16,7 +16,7 @@ widget1:
   title: "DinamiX"
   url: 'https://ufrgs-networks-group.github.io/networks-at-scale/dinamix/'
   image: '/images/logo-dinamix-site.png'
-  text: 'A Dynamic Agreement Marketplace on Internet eXchange Points'
+  text: 'A Dynamic Agreement Marketplace on Internet eXchange Points                                      '
 widget2:
   title: "Harmony"
   url: 'https://ufrgs-networks-group.github.io/networks-at-scale/harmony/'
@@ -26,7 +26,7 @@ widget3:
   title: "Hybrid Control Planes"
   url: 'https://ufrgs-networks-group.github.io/networks-at-scale/hybrid_coop_cp/'
   image: '/images/logo-hibridcp-site.png'
-  text: 'Control Plane Cooperation Design towards robust programmable WANs'
+  text: 'Control Plane Cooperation Design towards robust programmable WANs                                '
 #
 # Use the call for action to show a button on the frontpage
 #
