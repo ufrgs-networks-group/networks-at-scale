@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: main-header_v2.png
+  image_fullwidth: main-header_v2.jpg
 
 overview:
   title: Overview
