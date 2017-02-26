@@ -17,8 +17,8 @@ tags:
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/hJyQkTEPJgY?t=2h17m4s' frameborder='0' allowfullscreen></iframe>"
 
 video:
-    embedURL: "https://youtu.be/hJyQkTEPJgY?t=2h17m4s"
-    contentURL: "https://youtu.be/hJyQkTEPJgY?t=2h17m4s"
+    embedURL: "https://youtu.be/93ckgAFRMa8"
+    contentURL: "https://youtu.be/93ckgAFRMa8"
     thumbnailUrl: "http://img.youtube.com/vi/hJyQkTEPJgY/maxresdefault.jpg"
 #
 # Styling
