@@ -1,5 +1,7 @@
 # Project Networks@Scale INF/UFRGS - site
 
+Meaning of each folder in project:
+
 1. _data = data information files
 2. _drafts = drafts models for new pages
 3. _includes = include files on other pages (e.g. .md)
@@ -13,6 +15,6 @@
 ## Components
 Standards: HTML5, CSS3
 
-Software: Atom, Chrome/Safari, Ruby, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
+Software: Atom, Chrome/Safari, Ruby, Jekyll, Git, Gulp.js, Sass
 
 Components: Foundation Framework, Modernizr, jQuery, Backstretch.js, Reveal
