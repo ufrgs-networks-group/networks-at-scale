@@ -14,12 +14,12 @@ tags:
   - ixforum
   - CGI.br
 
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/hJyQkTEPJgY?t=2h17m4s' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/93ckgAFRMa8' frameborder='0' allowfullscreen></iframe>"
 
 video:
     embedURL: "https://youtu.be/93ckgAFRMa8"
     contentURL: "https://youtu.be/93ckgAFRMa8"
-    thumbnailUrl: "http://img.youtube.com/vi/hJyQkTEPJgY/maxresdefault.jpg"
+    thumbnailUrl: "http://img.youtube.com/vi/93ckgAFRMa8/maxresdefault.jpg"
 #
 # Styling
 #
